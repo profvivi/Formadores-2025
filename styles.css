@@ -47,4 +47,8 @@ section {
     height: auto;
 }
 
+/* botões de acessibilidade*/
+.btn btn-primary {
+    background-color: #FF862A;
+}
 
