@@ -144,3 +144,6 @@ h2 {
     background-color: #F1EDEF;
 }
 
+.btn btn-primary fw-bold {
+    background-color: aqua;
+}
