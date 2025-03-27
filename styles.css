@@ -145,7 +145,7 @@ h2 {
 }
 
 
-.btn btn-primary fw-bold:active{
+.btn:active{
     background-color: #FF862A;
 }
 
