@@ -145,7 +145,7 @@ h2 {
 }
 
 
-.btn:hover{
+.btn:active{
     background-color: #FF862A;
 }
 
