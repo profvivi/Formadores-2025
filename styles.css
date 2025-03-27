@@ -146,4 +146,9 @@ h2 {
 
 .btn   {
     background-color: aqua;
+    
+}
+
+.btn-primary{
+    background-color: #FF862A;
 }
