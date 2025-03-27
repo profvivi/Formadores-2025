@@ -145,10 +145,10 @@ h2 {
 }
 
 .btn   {
-    background-color: aqua;
+    color: aqua;
     
 }
 
-.btn-primary fw-bold{
-    background-color: aqua;
+.btn-primary {
+    background-color: rgb(245, 64, 9);
 }
