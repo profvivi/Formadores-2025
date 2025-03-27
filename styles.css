@@ -145,7 +145,7 @@ h2 {
 }
 
 
-.btn-primary: hover{
+.btn a:hover{
     background-color: #CB6D43;
 }
 
