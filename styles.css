@@ -144,12 +144,8 @@ h2 {
     background-color: #F1EDEF;
 }
 
-.btn-secundary   {
-    color: aqua;
-    background-color: #FF862A;
-    
-}
 
-.btn-primary {
+
+.btn {
     background-color: rgb(245, 64, 9);
 }
