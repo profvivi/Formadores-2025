@@ -145,7 +145,7 @@ h2 {
 }
 
 
-.btn-primary a.hover{
+.btn-primary fw-bold a.hover{
     background-color: #FF862A;
 }
 
