@@ -145,8 +145,8 @@ h2 {
 }
 
 
-#acessibilidade a:hover{
-    background-color: #CB6D43;
+.btn a.hover{
+    background: #FF862A;
 }
 
 
