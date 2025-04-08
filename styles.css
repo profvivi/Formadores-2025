@@ -3,6 +3,9 @@
 
 :root {
     --laranja-claro: #FF862A;
+    --alto-contraste-fundo: #000000;
+    --alto-contraste-texto: #ffffff;
+    --alto-contraste-link: #ffd700;
 }
 
 body {
@@ -41,13 +44,10 @@ section {
 /* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
-    right: 2.2em;
-    top: 19rem;
-    width: 28rem;
+    right: 0;
+    top: 18rem;
+    width: 45rem;
     height: auto;
-    padding: 80px;
-   
- 
 }
 
 
@@ -144,11 +144,6 @@ h2 {
     background-color: #F1EDEF;
 }
 
-
-/*.btn{
-    background-color: #CB6D43;
-}*/
-
 .menu-acessibilidade{
     position: fixed;
     top:2rem;
@@ -209,6 +204,3 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
-
-
-
