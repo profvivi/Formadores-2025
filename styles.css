@@ -173,7 +173,7 @@ h2 {
     transition: 0.7s;
 }
 
-#acessibilidade button:hover {
+#acessibilidade:hover {
     background-color:#00ad1d;
     transition: 0.7s;
 }
