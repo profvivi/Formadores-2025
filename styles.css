@@ -177,7 +177,7 @@ h2 {
     color: var(--alto-contraste-texto);
 }
 
-.alto-contraste  header{ background-color: var(--alto-contraste-fundo);}
+.alto-contraste  header,
 .alto-contraste  footer,
 .alto-contraste .formulario{
     background-color: var(--alto-contraste-fundo);
@@ -204,5 +204,9 @@ h2 {
 }
 
 .alto-contraste .fundo-galeria {
+    background: none;
+}
+
+.alto-contraste header {
     background: none;
 }
