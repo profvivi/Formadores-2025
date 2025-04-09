@@ -215,6 +215,10 @@ h2 {
     background: none;
 }
 
+.alto-contraste .formulario{
+    background: none;
+}
+
 .alto-contraste footer {
     background: none;
 }
