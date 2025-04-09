@@ -168,6 +168,12 @@ h2 {
     margin-bottom: 5px;
 }
 
+.button:hover {
+    background-color:#aaad00;
+    transition: 0.7s;
+}
+
+
 .apresenta-lista{
     display:none;
 }
