@@ -168,7 +168,7 @@ h2 {
     margin-bottom: 5px;
 }
 
-.opcoes-acessibilidade button:hover {
+.botao-acessibilidade button:hover {
     background-color:#aaad00;
     transition: 0.7s;
 }
