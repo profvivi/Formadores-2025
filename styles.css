@@ -195,6 +195,10 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
+.alto-contraste #galeria {
+    background-color: var(--alto-contraste-fundo);
+}
+
 .alto-contraste header {
     background: none;
 }
@@ -204,7 +208,7 @@ h2 {
 }
 
 .alto-contraste #galeria {
-    background-color: var(--alto-contraste-fundo);
+    background: none;
 }
 
 .alto-contraste .fundo-galeria {
